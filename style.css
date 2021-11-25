@@ -16,6 +16,14 @@ body{
 
 /* Griding System */
 
+.d-flex {
+	display: flex;
+}
+
+.justify-content-center {
+	justify-content: center;
+}
+
 .container {
 	width:92%;
 	margin: auto auto;
