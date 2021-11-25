@@ -16,6 +16,10 @@ body{
 
 /* Griding System */
 
+.color-black {
+	color: black;
+}
+
 .d-flex {
 	display: flex;
 }
